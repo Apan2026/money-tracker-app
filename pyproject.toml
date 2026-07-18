@@ -1,0 +1,1 @@
+# pyproject.toml for Replit\n[tool.poetry]\nname = "money-tracker-app"\nversion = "1.0.0"\ndescription = "Money Tracker Web Application"\nauthors = ["Apan2026\"]\n\n[tool.poetry.dependencies]\npython = "^3.9"\nFlask = "^2.3.2"\nWerkzeug = "^2.3.6"\ngunicorn = "^20.1.0\"\n
