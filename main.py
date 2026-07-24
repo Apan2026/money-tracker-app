@@ -1,6 +1,6 @@
 # main.py
 
-import tkinter as tk
+
 from tkinter import messagebox
 
 from database import create_tables
